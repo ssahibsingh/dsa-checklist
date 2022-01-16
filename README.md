@@ -1,3 +1,26 @@
-# DSA Roadmap
+# DSA Checklist
 
 - [ ] Arrays
+- [ ] 2D Arrays
+- [ ] Strings
+- [ ] Pointers
+- [ ] BIT Manipulation
+- [ ] Recursion
+- [ ] Linked List
+- [ ] Stacks
+- [ ] Queues
+- [ ] Binary Tree
+- [ ] Extended Binary Tree
+- [ ] Threaded Binary Tree
+- [ ] Graphs
+- [ ] Searching Algorithms
+- [ ] Sorting Algorithms
+- [ ] Binary Search Tree
+- [ ] m-way Search Tree
+- [ ] B Trees
+- [ ] B+ Trees
+- [ ] Hashing
+- [ ] Heaps
+- [ ] Greedy Algorithms
+- [ ] Dynamic Programming
+- [ ] Backtracking
