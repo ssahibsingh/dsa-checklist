@@ -1,1 +1,3 @@
-# dsa-roadmap
+# DSA Roadmap
+
+- [ ] Arrays
